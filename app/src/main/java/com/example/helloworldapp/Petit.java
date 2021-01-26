@@ -22,7 +22,10 @@ public class Petit {
 
         char myChar = 'h';
 
-        System.out.println("My Char is: " + myChar);
+        //Boolean == true or false, 1 or 0
+        boolean myBool = true;
+
+        System.out.println("My Char is: " + myChar  + "and my Bool is : " +myBool);
         //System.out.println("My Double is: " +myDouble);
 
         //System.out.println("My Byte is:"+ myByte);
