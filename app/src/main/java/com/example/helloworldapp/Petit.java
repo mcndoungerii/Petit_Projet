@@ -5,6 +5,28 @@ public class Petit {
         String lastName = "Ndunga";
         int age = 31;
 
-        System.out.println("Hi, My name is " + lastName + ".I am " + age + "years old");
+        //byte
+        byte myByte = 127;
+
+        //short 2x byte
+        short myShort = 345;
+
+        //float 3.14, 3.15..
+        float piNum = 3.14f;
+        //System.out.println("My PiNum is: " +piNum);
+
+        //double
+        double myDouble = 56.66;
+
+        //Char == char(@,2,$,.,0)
+
+        char myChar = 'h';
+
+        System.out.println("My Char is: " + myChar);
+        //System.out.println("My Double is: " +myDouble);
+
+        //System.out.println("My Byte is:"+ myByte);
+
+        //System.out.println("Hi, My name is " + lastName + ".I am " + age + "years old");
     }
 }
